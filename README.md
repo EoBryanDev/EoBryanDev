@@ -4,7 +4,7 @@ I’m interested in leaning and develop. Don't just develop a script, but a solu
 
 I’m looking to collaborate on a organization to reach other step on my career and contribuite with my skills to help it to grow up.
 
-Skills: HTML / CSS / JS / PHP / Ps
+Skills: HTML / CSS / JS / PHP / C# / MySQL / Ps
 
 
 
