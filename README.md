@@ -10,3 +10,5 @@ Skills: HTML / CSS / JS / PHP / C# / MySQL / Ps
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EoBryanDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maur%C3%ADcio-bryan-de-andrade-viana-9b1195125//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/css3.svg' alt='css3' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg' alt='html5' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/javascript.svg' alt='javascript' height='40'>](#)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/adobephotoshop.svg' alt='adobephotoshop' height='40'>](#)  
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EoBryanDev&show_icons=true)  
