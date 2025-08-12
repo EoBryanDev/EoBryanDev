@@ -7,7 +7,7 @@
 <p align="left">My name is Bryan, and I'm from São Paulo, Brazil. I hold an IT technical certification from SENAI and am currently in my final semester of Software Engineering at Cruzeiro do Sul University. I'm passionate about technology and challenges, and I find fulfillment in helping my team develop innovative solutions.</p>
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/softwareengineeringbryandev/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eobryandev/)
+<!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/eobryandev/)-->
 <!--[![Website](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://mb-inc-portfolio.netlify.app/)-->
 
 ---
